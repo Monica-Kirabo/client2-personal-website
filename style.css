@@ -1,0 +1,36 @@
+
+*{
+    padding:0px;
+    margin:0px;
+    border-width:0px;
+}
+h2{
+    color:azure;
+    background-color:darkgoldenrod;
+}
+h3{
+    color:darkgreen;
+}
+h4{
+    font-size: 100%;
+}
+h5{
+    background-color:chocolate;
+    border-color: black;
+    border-width:10px;
+    border-style:none;
+}
+body{
+    background-color:darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 40ch;
+    border-radius: 40in;
+}
+.flexbox-container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
