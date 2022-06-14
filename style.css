@@ -4,18 +4,24 @@
     margin:0px;
     border-width:0px;
 }
+h1{
+    color: azure;
+    text-align: center;
+    margin:auto;
+}
 h2{
     color:azure;
     background-color:darkgoldenrod;
 }
 h3{
+    text-align: center;
     color:darkgreen;
 }
 h4{
     font-size: 100%;
 }
 h5{
-    background-color:chocolate;
+    
     border-color: black;
     border-width:10px;
     border-style:none;
@@ -28,9 +34,16 @@ img{
     border: 40ch;
     border-radius: 40in;
 }
+.image{
+    border:0;
+    border-radius: 60px;
+}
 .flexbox-container{
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
+}
+.portfolio{
+    background-color: chocolate;
 }
 
